@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="AeroPass Cover" src="https://github.com/petervazhekatt123-collab/uselesse_project/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
+<img width="1280" height="640" alt="AeroPass Cover" src="cover.jpg" />
 
 # AeroPass 🎯
 
@@ -46,7 +46,7 @@ For Software:
 For Software:
 
 # Screenshots
-![Cover](https://github.com/petervazhekatt123-collab/uselesse_project/assets/8920b256-2ba8-4988-b824-5351134eb4bd)
+![Cover](cover.jpg)
 *AeroPass Cover Image*
 
 *(Add your other app screenshots here!)*
