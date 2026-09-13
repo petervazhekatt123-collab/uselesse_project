@@ -14,6 +14,9 @@
 ### Project Description
 Security meets respiratory endurance! This Android Accessibility app replaces your boring lock screen with a breath-activated Morse code system. By blowing into the microphone, the app simulates physical ghost taps to type your PIN. It is wildly inefficient, totally exhausting, and beautifully useless.
 
+### Demo Video
+▶️ **[Watch the AeroPass Demo Video here!](https://github.com/petervazhekatt123-collab/uselesse_project/raw/main/demo.mp4)**
+
 ### The Problem (that doesn't exist)
 Tapping your PIN with your fingers is too fast, too convenient, and entirely too easy. Your lungs are getting no exercise, and unlocking your phone doesn't feel like enough of an achievement.
 
