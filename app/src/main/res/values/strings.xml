@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlowToType</string>
+    <string name="accessibility_service_description">Converts microphone blows into typed numbers across any app.</string>
+</resources>
