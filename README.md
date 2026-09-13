@@ -49,4 +49,7 @@ For Software:
 ![Cover](cover.jpg)
 *AeroPass Cover Image*
 
-*(Add your other app screenshots here!)*
+<br>
+
+<img src="screenshot1.png" width="300" alt="App Main Screen" />
+*AeroPass Main Screen - Where the magic begins*
