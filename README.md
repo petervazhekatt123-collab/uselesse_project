@@ -8,8 +8,8 @@
 
 
 ### Team Members
-- Team Lead: Akhinesh Kumar - [College Name]
-- Member 2: Peter Alex - [College Name]
+- Team Lead: Akhinesh Kumar - Saingits collage of engineering (Autonomous)
+- Member 2: Peter Alex - Saingits collage of engineering (Autonomous)
 
 ### Project Description
 Security meets respiratory endurance! This Android Accessibility app replaces your boring lock screen with a breath-activated Morse code system. By blowing into the microphone, the app simulates physical ghost taps to type your PIN. It is wildly inefficient, totally exhausting, and beautifully useless.
