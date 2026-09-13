@@ -22,14 +22,14 @@ AeroPass! We built a background Android Accessibility Service that listens to yo
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
+
 - Kotlin
 - Android AccessibilityService API (for ghost taps)
 - Android AudioRecord API (for blow detection)
 - Gradle
 
 ### Implementation
-For Software:
+
 # Installation
 1. Clone the repository.
 2. Open the project in Android Studio.
@@ -43,7 +43,7 @@ For Software:
 4. Lock your phone, wake the screen, and start blowing! (1 blow = 9, 10 blows = 0).
 
 ### Project Documentation
-For Software:
+The core of the app runs in `BlowToTypeService.kt`, an Android `AccessibilityService`. It processes audio buffers in a background thread to detect microphone amplitude peaks (blows). After a brief cooldown timer registers the final count, the service uses `GestureDescription` to dispatch simulated physical touch inputs to the exact X/Y screen coordinates of the Android lock screen keypad.
 
 # Screenshots
 
